@@ -1,2 +1,6 @@
-# blogs_to_follow
+# Blogs to follow
 A list of blogs I follow on R
+
+[Konrad Semsch](https://konradsemsch.netlify.app/)
+
+Nice posts on Tidymodels
