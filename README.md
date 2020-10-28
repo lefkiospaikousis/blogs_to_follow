@@ -10,4 +10,6 @@ Nice posts on Tidymodels
 Visualisation
 
 [Tyson Barrett](https://tysonbarrett.com)
-Has done some greate work on list-clumns with `data.table` [see here][List-columns in data.table:]
+Has done some greate work on list-columns with `data.table` [see here][https://psyarxiv.com/u8ekc/].    
+You can also check out the package 'tidyfast'
+
