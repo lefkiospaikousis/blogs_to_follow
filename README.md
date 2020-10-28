@@ -11,5 +11,5 @@ Visualisation
 
 [Tyson Barrett](https://tysonbarrett.com)
 Has done some greate work on list-columns with `data.table` [see here][https://psyarxiv.com/u8ekc/].    
-You can also check out the package 'tidyfast'
+You can also check out the package `tidyfast`
 
