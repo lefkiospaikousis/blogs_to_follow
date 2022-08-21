@@ -13,3 +13,7 @@ Visualisation
 Has done some greate work on list-columns with `data.table` [see here][https://psyarxiv.com/u8ekc/].    
 You can also check out the package `tidyfast`
 
+R Shiny
+
+[Jacqueline Nolis](https://jnolis.com/blog/)
+All things Shiny, Dockjer, SQL databases, Data science
